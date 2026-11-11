@@ -36,8 +36,8 @@ terms, as allowed by section 7, paragraphs (c) and (e), of that License.
 2. No trademark rights (section 7(e)).
 
    This License grants no right under trademark law to use the name
-   "GEMINUS" or the GEMINUS icon to identify a modified version. Stating truthfully that your
-   work is based on GEMINUS is always allowed.
+   "GEMINUS" or the GEMINUS icon to identify a modified version. Stating
+   truthfully that your work is based on GEMINUS is always allowed.
 
 These terms do not limit your freedom to run, study, modify and convey
 GEMINUS under the GNU General Public License: they only require that a
