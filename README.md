@@ -16,6 +16,10 @@
   You should have received a copy of the GNU General Public License along
   with GEMINUS. If not, see <https://www.gnu.org/licenses/>.
 
+  Additional terms under section 7 of the GNU General Public License,
+  version 3, apply to GEMINUS: see LICENSE-EXCEPTION.txt and
+  LICENSE-ADDITIONAL-TERMS.txt.
+
   SPDX-License-Identifier: GPL-3.0-or-later
 -->
 # GEMINUS
@@ -48,6 +52,8 @@ GEMINUS is an open source project born from a personal need. Anyone can contribu
 
 Ready-made packages are on the releases page — [Codeberg](https://codeberg.org/lucixdev/geminus/releases) or [GitHub](https://github.com/lucixdev/geminus/releases). GEMINUS lives in both places: Codeberg is home, GitHub is its mirror, and the two carry the same code.
 
+The only official packages are the ones published by `lucixdev` on these two pages. GEMINUS is free software, so anyone may publish a modified version: those builds are not mine, and I cannot answer for what they do.
+
 **On Linux** — three formats, take the one you need: **AppImage** (a single file: make it executable and run it, nothing to install), a **`.deb`** package for Debian and derivatives, an **`.rpm`** package for Fedora.
 
 **On Windows** — an installer: open it, click through to the end, and GEMINUS lands in the start menu. It needs Windows 10 22H2 or later, 64 bit. If the machine is missing the system component used to draw the interface, the installation adds it.
@@ -78,6 +84,11 @@ GEMINUS is free software under the [GNU GPL, version 3 or later](https://www.gnu
 WebView2 runtime, which is not free software: `LICENSE-EXCEPTION.txt` grants the
 additional permission that allows linking against it. Software written by others
 and shipped together with GEMINUS is listed in `THIRD-PARTY-NOTICES.txt`.
+
+Anyone may modify GEMINUS and publish the result, but a modified version must be
+told apart from the original: a different name and icon, its own publisher and
+application identifier, and a notice saying it is not the author's. The exact terms are in
+`LICENSE-ADDITIONAL-TERMS.txt`.
 
 ---
 ---
@@ -112,6 +123,8 @@ GEMINUS è un progetto open source nato da un'esigenza personale. Chiunque può 
 
 I pacchetti pronti stanno nella pagina dei rilasci — [Codeberg](https://codeberg.org/lucixdev/geminus/releases) o [GitHub](https://github.com/lucixdev/geminus/releases). GEMINUS vive in tutti e due i posti: Codeberg è la casa, GitHub è la copia, e portano lo stesso codice.
 
+I soli pacchetti ufficiali sono quelli pubblicati da `lucixdev` in queste due pagine. GEMINUS è software libero, quindi chiunque può pubblicarne una versione modificata: quelle build non sono mie, e di cosa fanno non posso rispondere.
+
 **Su Linux** — tre formati, scegli quello che ti serve: **AppImage** (un file solo: lo rendi eseguibile e lo lanci, senza installare niente), pacchetto **`.deb`** per Debian e derivate, pacchetto **`.rpm`** per Fedora.
 
 **Su Windows** — un programma di installazione: lo apri, vai avanti fino alla fine, e GEMINUS finisce nel menu di avvio. Serve Windows 10 22H2 o successivo, a 64 bit. Se al computer manca il componente di sistema che serve a mostrare l'interfaccia, l'installazione lo aggiunge da sé.
@@ -142,3 +155,8 @@ GEMINUS è software libero sotto [GNU GPL, versione 3 o successive](https://www.
 WebView2, che non è software libero: `LICENSE-EXCEPTION.txt` concede il permesso
 aggiuntivo che ne autorizza il collegamento. Il software scritto da altri e
 distribuito insieme a GEMINUS è elencato in `THIRD-PARTY-NOTICES.txt`.
+
+Chiunque può modificare GEMINUS e pubblicare il risultato, ma una versione
+modificata deve potersi distinguere dall'originale: un nome e un'icona diversi, un
+editore e un identificativo propri, e un avviso che dica che non è dell'autore. Le condizioni
+esatte stanno in `LICENSE-ADDITIONAL-TERMS.txt`.
