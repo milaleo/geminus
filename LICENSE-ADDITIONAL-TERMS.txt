@@ -18,11 +18,15 @@ terms, as allowed by section 7, paragraphs (c) and (e), of that License.
       must be a different name, or carry a qualifier that makes clear it
       is not the original (for example "GEMINUS - Example fork");
 
-   b) it must not declare "lucixdev" or "lucix.dev" as its publisher,
+   b) it must not use the GEMINUS icon (the drawing in icon.svg and the
+      image files derived from it) as its application, window, installer
+      or project icon: it must use an icon of its own;
+
+   c) it must not declare "lucixdev" or "lucix.dev" as its publisher,
       vendor or maintainer, and it must not use the application identifier
       of the original, "org.codeberg.lucixdev.geminus";
 
-   c) its README, and the notes of every release, must state prominently
+   d) its README, and the notes of every release, must state prominently
       that it is a modified version not published by the original author,
       and say where the original can be found.
 
@@ -32,7 +36,7 @@ terms, as allowed by section 7, paragraphs (c) and (e), of that License.
 2. No trademark rights (section 7(e)).
 
    This License grants no right under trademark law to use the name
-   "GEMINUS" to identify a modified version. Stating truthfully that your
+   "GEMINUS" or the GEMINUS icon to identify a modified version. Stating truthfully that your
    work is based on GEMINUS is always allowed.
 
 These terms do not limit your freedom to run, study, modify and convey
