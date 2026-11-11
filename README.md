@@ -16,6 +16,10 @@
   You should have received a copy of the GNU General Public License along
   with GEMINUS. If not, see <https://www.gnu.org/licenses/>.
 
+  Additional terms under section 7 of the GNU General Public License,
+  version 3, apply to GEMINUS: see LICENSE-EXCEPTION.txt and
+  LICENSE-ADDITIONAL-TERMS.txt.
+
   SPDX-License-Identifier: GPL-3.0-or-later
 -->
 # GEMINUS
@@ -80,6 +84,11 @@ GEMINUS is free software under the [GNU GPL, version 3 or later](https://www.gnu
 WebView2 runtime, which is not free software: `LICENSE-EXCEPTION.txt` grants the
 additional permission that allows linking against it. Software written by others
 and shipped together with GEMINUS is listed in `THIRD-PARTY-NOTICES.txt`.
+
+Anyone may modify GEMINUS and publish the result, but a modified version must be
+told apart from the original: a different name, its own publisher and application
+identifier, and a notice saying it is not the author's. The exact terms are in
+`LICENSE-ADDITIONAL-TERMS.txt`.
 
 ---
 ---
@@ -146,3 +155,8 @@ GEMINUS è software libero sotto [GNU GPL, versione 3 o successive](https://www.
 WebView2, che non è software libero: `LICENSE-EXCEPTION.txt` concede il permesso
 aggiuntivo che ne autorizza il collegamento. Il software scritto da altri e
 distribuito insieme a GEMINUS è elencato in `THIRD-PARTY-NOTICES.txt`.
+
+Chiunque può modificare GEMINUS e pubblicare il risultato, ma una versione
+modificata deve potersi distinguere dall'originale: un nome diverso, un editore e
+un identificativo propri, e un avviso che dica che non è dell'autore. Le condizioni
+esatte stanno in `LICENSE-ADDITIONAL-TERMS.txt`.

@@ -1,0 +1,44 @@
+Additional terms under GNU GPL version 3 section 7
+==================================================
+
+Copyright (C) 2026 lucix.dev <lucix.dev@proton.me>
+
+GEMINUS is licensed under the GNU General Public License, version 3 or (at
+your option) any later version, supplemented by the following additional
+terms, as allowed by section 7, paragraphs (c) and (e), of that License.
+
+1. Modified versions must be marked as different (section 7(c)).
+
+   If you convey a modified version of GEMINUS, in source or binary form,
+   you must mark it in reasonable ways as different from the original
+   version. At a minimum:
+
+   a) the name shown to users (product name, window title, installer and
+      package names) must not be the bare name "GEMINUS" or "Geminus": it
+      must be a different name, or carry a qualifier that makes clear it
+      is not the original (for example "GEMINUS - Example fork");
+
+   b) it must not declare "lucixdev" or "lucix.dev" as its publisher,
+      vendor or maintainer, and it must not use the application identifier
+      of the original, "org.codeberg.lucixdev.geminus";
+
+   c) its README, and the notes of every release, must state prominently
+      that it is a modified version not published by the original author,
+      and say where the original can be found.
+
+   You must not misrepresent the origin of GEMINUS, nor present a modified
+   version as the original or as endorsed by its author.
+
+2. No trademark rights (section 7(e)).
+
+   This License grants no right under trademark law to use the name
+   "GEMINUS" to identify a modified version. Stating truthfully that your
+   work is based on GEMINUS is always allowed.
+
+These terms do not limit your freedom to run, study, modify and convey
+GEMINUS under the GNU General Public License: they only require that a
+modified version can be told apart from the original. Copies conveyed
+without modification are not affected.
+
+These terms are not an additional permission. They must be preserved in
+GEMINUS and in every work based on it.
